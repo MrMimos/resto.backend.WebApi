@@ -1,0 +1,192 @@
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\appsettings.json
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.exe
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.deps.json
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.runtimeconfig.json
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.runtimeconfig.dev.json
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\ref\resto.backend.WebApi.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.pdb
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Data.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Domain.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Data.pdb
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Domain.pdb
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.AssemblyReference.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.AssemblyInfoInputs.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.AssemblyInfo.cs
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.CoreCompileInputs.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\staticwebassets\resto.backend.WebApi.StaticWebAssets.Manifest.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\staticwebassets\resto.backend.WebApi.StaticWebAssets.xml
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\scopedcss\bundle\resto.backend.WebApi.styles.css
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.RazorTargetAssemblyInfo.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\ref\resto.backend.WebApi.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.pdb
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.genruntimeconfig.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.CopyComplete
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.exe
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.deps.json
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.runtimeconfig.json
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.runtimeconfig.dev.json
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\ref\resto.backend.WebApi.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.pdb
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Data.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Domain.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Data.pdb
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Domain.pdb
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.AssemblyReference.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.AssemblyInfoInputs.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.AssemblyInfo.cs
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\staticwebassets\resto.backend.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\staticwebassets\resto.backend.WebApi.StaticWebAssets.xml
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\scopedcss\bundle\resto.backend.WebApi.styles.css
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.CopyComplete
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\ref\resto.backend.WebApi.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.pdb
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.genruntimeconfig.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.exe
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.deps.json
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.runtimeconfig.json
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.runtimeconfig.dev.json
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\ref\resto.backend.WebApi.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.WebApi.pdb
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Data.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Domain.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Data.pdb
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\bin\Debug\net5.0\resto.backend.Domain.pdb
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.AssemblyReference.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.AssemblyInfoInputs.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.AssemblyInfo.cs
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.CoreCompileInputs.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\staticwebassets\resto.backend.WebApi.StaticWebAssets.Manifest.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\staticwebassets\resto.backend.WebApi.StaticWebAssets.xml
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\scopedcss\bundle\resto.backend.WebApi.styles.css
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.RazorTargetAssemblyInfo.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\ref\resto.backend.WebApi.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.pdb
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.genruntimeconfig.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.WebApi\obj\Debug\net5.0\resto.backend.WebApi.csproj.CopyComplete

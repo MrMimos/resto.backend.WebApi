@@ -1,0 +1,36 @@
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.deps.json
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\ref\resto.backend.Domain.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.pdb
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.csproj.AssemblyReference.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.AssemblyInfoInputs.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.AssemblyInfo.cs
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.csproj.CoreCompileInputs.cache
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\ref\resto.backend.Domain.dll
+D:\flutterProjects\CrossPlateforme\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.pdb
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.deps.json
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\ref\resto.backend.Domain.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.pdb
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.csproj.AssemblyReference.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.AssemblyInfoInputs.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.AssemblyInfo.cs
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\ref\resto.backend.Domain.dll
+C:\Users\Saadia Karray\Downloads\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.pdb
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.deps.json
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\ref\resto.backend.Domain.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\bin\Debug\net5.0\resto.backend.Domain.pdb
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.csproj.AssemblyReference.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.AssemblyInfoInputs.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.AssemblyInfo.cs
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.csproj.CoreCompileInputs.cache
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\ref\resto.backend.Domain.dll
+D:\Schooler\FOD\resto.backend.Solution\resto.backend.Solution\resto.backend.Domain\obj\Debug\net5.0\resto.backend.Domain.pdb
